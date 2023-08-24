@@ -2,7 +2,7 @@
 title: "Lab 0 - Hello R!"
 author: "[INSERT NAME]"
 date: "[INSERT DATE]"
-format: html
+format: pdf
 editor: visual
 ---
 
